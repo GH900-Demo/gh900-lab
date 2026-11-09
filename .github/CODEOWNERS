@@ -1,0 +1,5 @@
+# Default owner for everything
+*  @GH900-Demo
+
+# Docs owned by the docs maintainer
+/docs/  @GH900-Demo
